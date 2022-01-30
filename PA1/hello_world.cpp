@@ -8,11 +8,8 @@ int main()
 {
     vector<string> msg {
         "Hello", 
-        "C++", 
         "World", 
-        "from", 
-        "VSCode", 
-        "and the C++ extension!"
+      
     };
     for (const string& word : msg)
     {
