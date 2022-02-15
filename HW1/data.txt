@@ -1,0 +1,8 @@
+Denver
+32
+Miami
+75
+Houston
+90
+Boston
+22

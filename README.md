@@ -3,4 +3,4 @@
 ### @ University of Colorado Denver
 
 List of Assignments: 
-- PA1: Create Hello World++ program 
+- PA1: Create Hello World++ program
