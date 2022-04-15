@@ -24,4 +24,3 @@ Usage:
     > Open a terminal in the same directory
     > Run "make" command to create executable file
     > Run "./hw2" to execute program
-
