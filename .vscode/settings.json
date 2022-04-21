@@ -1,4 +1,33 @@
 {
+    "jupyter.interactiveWindowMode": "perFile",
+    "python.terminal.executeInFileDir": true,
+    "editor.wordWrap": "on",
+    "breadcrumbs.enabled": false,
+    "terminal.integrated.defaultProfile.windows": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe (migrated)",
+    "terminal.integrated.profiles.windows": {
+        "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe (migrated)": {
+            "path": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+            "args": ["-nologo"]
+        }
+    },
+    "workbench.iconTheme": "Monokai Pro (Filter Spectrum) Icons",
+    "git.autofetch": true,
+    "git.path": "D:\\Git\\bin\\git.exe;",
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "editor.fontWeight": "500",
+    "terminal.integrated.fontFamily": "monospace",
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.showExecutionMessage": false,
+    "workbench.colorTheme": "Monokai Pro (Filter Octagon)",
+    "notebook.lineNumbers": "on",
+    "C_Cpp.updateChannel": "Insiders",
+    "editor.fontSize": 15,
+    "editor.codeActionsOnSave": {
+
+    }
+    ,
+    
     "files.associations": {
         "iostream": "cpp",
         "ostream": "cpp",

@@ -12,5 +12,17 @@
     - Compares the two grids for overlapping 1 cells
     - Prints the overlap grid showing where they had 1's in common
 
+- HW 5: Practices inheritance and polymorphism by implementing virtual functions to derived classes
+    - Using a base class, assigns member variables to derived classes and performs tasks via virtual functions
+    - Class Organization: 
+    - **Creature** 
+        - **Human**, 
+        - **Elf**
+        - **Demon**
+            - **Cyberdemon** 
+            - **Balrog**
+    - In main(), creates pointers to reference to objects and implement virtual functions
+    - Depending on the object type, output will vary
+
 
 **Practice folder contains simple single function programs I wrote as notes*
