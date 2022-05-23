@@ -20,7 +20,7 @@ void Emp::setPay(int p)
 {
     pay = p;
 }
-int Emp::getssn() const
+int Emp::getssn() const 
 {
     return ssn;
 }

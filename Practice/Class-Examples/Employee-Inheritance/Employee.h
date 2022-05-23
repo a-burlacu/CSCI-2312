@@ -43,6 +43,14 @@ public:
     void print() const;
 };
 
+
+
+
+
+
+
+
+
 class HourlyEmp: public Emp
 {
 private:

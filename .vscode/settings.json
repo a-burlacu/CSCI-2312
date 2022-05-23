@@ -19,7 +19,7 @@
     "terminal.integrated.fontFamily": "monospace",
     "code-runner.clearPreviousOutput": true,
     "code-runner.showExecutionMessage": false,
-    "workbench.colorTheme": "Monokai Pro",
+    "workbench.colorTheme": "Arctis",
     "notebook.lineNumbers": "on",
     "C_Cpp.updateChannel": "Insiders",
     "editor.fontSize": 15,
